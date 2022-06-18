@@ -1,0 +1,15 @@
+D:\Noveno semestre\Electiva 3\Proyectos\TestJenkins\TestJenkins\bin\Debug\net6.0\TestJenkins.exe
+D:\Noveno semestre\Electiva 3\Proyectos\TestJenkins\TestJenkins\bin\Debug\net6.0\TestJenkins.deps.json
+D:\Noveno semestre\Electiva 3\Proyectos\TestJenkins\TestJenkins\bin\Debug\net6.0\TestJenkins.runtimeconfig.json
+D:\Noveno semestre\Electiva 3\Proyectos\TestJenkins\TestJenkins\bin\Debug\net6.0\TestJenkins.dll
+D:\Noveno semestre\Electiva 3\Proyectos\TestJenkins\TestJenkins\bin\Debug\net6.0\ref\TestJenkins.dll
+D:\Noveno semestre\Electiva 3\Proyectos\TestJenkins\TestJenkins\bin\Debug\net6.0\TestJenkins.pdb
+D:\Noveno semestre\Electiva 3\Proyectos\TestJenkins\TestJenkins\obj\Debug\net6.0\TestJenkins.csproj.AssemblyReference.cache
+D:\Noveno semestre\Electiva 3\Proyectos\TestJenkins\TestJenkins\obj\Debug\net6.0\TestJenkins.GeneratedMSBuildEditorConfig.editorconfig
+D:\Noveno semestre\Electiva 3\Proyectos\TestJenkins\TestJenkins\obj\Debug\net6.0\TestJenkins.AssemblyInfoInputs.cache
+D:\Noveno semestre\Electiva 3\Proyectos\TestJenkins\TestJenkins\obj\Debug\net6.0\TestJenkins.AssemblyInfo.cs
+D:\Noveno semestre\Electiva 3\Proyectos\TestJenkins\TestJenkins\obj\Debug\net6.0\TestJenkins.csproj.CoreCompileInputs.cache
+D:\Noveno semestre\Electiva 3\Proyectos\TestJenkins\TestJenkins\obj\Debug\net6.0\TestJenkins.dll
+D:\Noveno semestre\Electiva 3\Proyectos\TestJenkins\TestJenkins\obj\Debug\net6.0\ref\TestJenkins.dll
+D:\Noveno semestre\Electiva 3\Proyectos\TestJenkins\TestJenkins\obj\Debug\net6.0\TestJenkins.pdb
+D:\Noveno semestre\Electiva 3\Proyectos\TestJenkins\TestJenkins\obj\Debug\net6.0\TestJenkins.genruntimeconfig.cache
